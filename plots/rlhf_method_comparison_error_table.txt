@@ -1,0 +1,8 @@
+\begin{tabularx}{\textwidth}{|X||X|X|X|X}
+\hline
+\hline
+model & SFT & DPO & ORPO & PPO \\
+grammar errors (per 1000 characters) & 1.46 & 0.94 & 1.46 & 1.68 \\
+\hline
+\end{tabularx}
+

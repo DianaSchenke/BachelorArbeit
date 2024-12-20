@@ -1,0 +1,9 @@
+\begin{tabularx}{\textwidth}{|X||X|X|X|X}
+\hline
+\hline
+model & Llama & GPT & Llama & GPT \\
+GPT & 0.66 & 0.64 & 0.66 & 0.71 \\
+Llama & 0.68 & 0.65 & 0.69 & 0.66 \\
+\hline
+\end{tabularx}
+

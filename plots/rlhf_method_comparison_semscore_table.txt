@@ -1,0 +1,9 @@
+\begin{tabularx}{\textwidth}{|X||X|X|X|X}
+\hline
+\hline
+model & SFT & DPO & ORPO & PPO \\
+GPT & 0.71 & 0.71 & 0.71 & 0.70 \\
+Llama & 0.66 & 0.66 & 0.66 & 0.65 \\
+\hline
+\end{tabularx}
+

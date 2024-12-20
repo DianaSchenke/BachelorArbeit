@@ -1,0 +1,8 @@
+\begin{tabularx}{\textwidth}{|X||X|X|X|X}
+\hline
+\hline
+model & Llama & GPT & Llama & GPT \\
+grammar errors (per 1000 characters) & 1.78 & 1.14 & 2.06 & 1.46 \\
+\hline
+\end{tabularx}
+

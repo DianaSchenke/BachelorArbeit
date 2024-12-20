@@ -1,0 +1,9 @@
+\begin{tabularx}{\textwidth}{|X|X|X|X|X|}
+\hline
+ & within 5% & within 10% & within 25% & within 50% & within 100% & within 250% \\
+\hline
+Base Model & 0.003 & 0.006 & 0.021 & 0.059 & 0.205 & 0.552 \\
+Trained Model & 0.472 & 0.748 & 0.958 & 0.983 & 0.992 & 0.995 \\
+\hline
+\end{tabularx}
+

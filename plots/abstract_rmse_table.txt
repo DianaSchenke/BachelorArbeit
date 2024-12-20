@@ -1,0 +1,9 @@
+\begin{tabularx}{\textwidth}{|X|X|X|X|X|}
+\hline
+ & RMSE (characters) & RMSE (letters) & RMSE (spoken) & RMSE (printed) \\
+\hline
+our model & 116.18 & 38.06 & 32.96 & 5.78 \\
+baseline & 470.29 & 1059.26 & 732.47 & 180.99 \\
+\hline
+\end{tabularx}
+
